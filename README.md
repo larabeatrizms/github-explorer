@@ -1,9 +1,9 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://hotmart.s3.amazonaws.com/product_pictures/6bd576fb-5d9f-4c15-b59d-482ff6a26cbe/GO1.png" alt="Desafio fundamentos Node.js"></a>
+ <img width=359px height=198px src="https://www.somagnews.com/wp-content/uploads/2020/04/75-e1586981465263.png" alt="Github Explorer"></a>
 </p>
 
-<h3 align="center">Fundamento ReactJS</h3>
+<h3 align="center">Github Explorer</h3>
 
 <div align="center">
 
@@ -25,7 +25,7 @@
 
 ---
 
-<p align="center"> Projeto contruído com conhecimento nos fundamentos do Node.js. Utilizando dois patterns dentro de aplicações back-end e comparando com outros padrões comuns como os controllers do MVC. Projeto focado no Data Mapper Pattern e nos princípios dos SOLID e DDD. Para conhecer mais sobre as diferenças com o MVC <a href="https://www.notion.so/Repository-service-e-patterns-82419cceb11c4c4fbbc055ade7fb1ac5">acesse este link</a>.
+<p align="center"> 
     <br>
 </p>
 
